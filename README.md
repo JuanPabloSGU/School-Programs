@@ -1,1 +1,1 @@
-# School-Programs
+Theses are a couple of sorting algorthms.
